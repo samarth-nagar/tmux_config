@@ -1,4 +1,6 @@
-.tmux
+.an tmux config based on oh-my-tmux and its extentions
+" the readme is also of that repo "
+
 =====
 
 Self-contained, pretty and versatile `.tmux.conf` configuration file.
